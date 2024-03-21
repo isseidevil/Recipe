@@ -1,0 +1,24 @@
+.spcsec1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.left1, .right1{
+    width: 49%;
+}
+.left img:hover{
+    cursor: pointer;
+}
+
+aside{
+    width: 40%;
+}
+
+.control{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
