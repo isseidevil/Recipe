@@ -14,4 +14,5 @@ Made this one using freemealdb api
 ![image](https://github.com/isseidevil/weather-app/assets/149817970/bb73ab60-e016-4b2f-bc07-02f7d912976b)
 
 # Live demo
-https://sdxd-findrecipes.netlify.app/
+sdxd-findrecipes.netlify.app
+
